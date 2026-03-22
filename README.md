@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Portafolio Personal — ICS-294 · Econometría
+# 📊 Entregables ICS-294 - Econometría
 **Universidad Técnica Federico Santa María**
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -35,7 +35,7 @@ Este repositorio es el portafolio digital del estudiante para el curso de Econom
 
 ## 🗂️ Estructura del Repositorio
 ```
-portafolio-ics294/
+ics194-entregables/
 ├── talleres/        # Actividades y ejercicios del curso
 ├── trabajos/        # Entregas formales evaluadas
 ├── img/             # Imágenes del portafolio
